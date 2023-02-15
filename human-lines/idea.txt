@@ -1,0 +1,27 @@
+The idea here is to get things kicked off - this is officially the first digital art project I am embarking on. 
+
+I wanted to use previous knowledge I have, a simple idea came to mind, humans as lines. 
+
+The aim is to take a video input of a human dancing or moving and convert that to a line on a white background (to start with)
+
+
+Approach: 
+1. Data
+2. Movement/frame analysis:
+    start with single frame analysis
+    harmonic frequency? average frequency? --> what should we be looking at for human movement
+    can we run FFT realtime?
+    human extraction of frame
+3. Drawing
+    how to draw moving lines? must be some kind of libarary
+    how can we spice this up
+4. Gear
+    what gear do we need to buy?
+    can we use the lazer projector?
+
+Inspiration:
+https://computervisionart.com/pieces2021/all-watched-over-by-machine-of-loving-grace-v1.1b/
+The idea behind this art project is to 
+
+Repo Architecture: 
+just write bloody code, and re-org later if needed
